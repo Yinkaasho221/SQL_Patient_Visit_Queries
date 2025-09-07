@@ -61,3 +61,7 @@ This analysis provides:
 * Align staffing and resources with peak visit periods and high-billing demographics.
 * Focus public health efforts in cities with high diagnosis rates, especially for conditions like Malaria.
 * Strengthen data entry protocols to improve reporting accuracy and reduce duplication.
+
+ **About the Analyst**
+ 
+This project was developed by Asho, a methodical data analyst with expertise in SQL, Excel, and Power BI. Passionate about transforming raw data into actionable insights that drive operational efficiency and strategic decision-making.
